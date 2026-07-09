@@ -1,4 +1,4 @@
-# 🏫 School Management System
+#  School Management System
 
 A comprehensive REST API built with **Django** + **PostgreSQL** featuring JWT authentication and role-based access control.
 
