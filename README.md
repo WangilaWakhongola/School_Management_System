@@ -4,7 +4,7 @@ A comprehensive REST API built with **Django** + **PostgreSQL** featuring JWT au
 
 ---
 
-## 📦 Tech Stack
+##  Tech Stack
 
 - **Backend:** Django 4.2, Django REST Framework
 - **Database:** PostgreSQL
@@ -13,7 +13,7 @@ A comprehensive REST API built with **Django** + **PostgreSQL** featuring JWT au
 
 ---
 
-## 👥 User Roles
+##  User Roles
 
 | Role    | Access Level |
 |---------|-------------|
@@ -24,7 +24,7 @@ A comprehensive REST API built with **Django** + **PostgreSQL** featuring JWT au
 
 ---
 
-## 📚 Modules
+##  Modules
 
 - ✅ **Accounts** — User management, JWT login/logout, role-based auth
 - ✅ **Students** — Student profiles, class management
@@ -37,7 +37,7 @@ A comprehensive REST API built with **Django** + **PostgreSQL** featuring JWT au
 
 ---
 
-## 🚀 Setup & Installation
+##  Setup & Installation
 
 ### 1. Clone the repo
 ```bash
@@ -88,7 +88,7 @@ python manage.py runserver
 
 ---
 
-## 🌐 API Endpoints
+##  API Endpoints
 
 ### Auth
 | Method | Endpoint | Description |
